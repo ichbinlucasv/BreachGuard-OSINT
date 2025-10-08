@@ -6,3 +6,9 @@ BreachGuard-OSINT/
 ├── breaches.db          # SQLite DB (generated; add to .gitignore)
 └── templates/           # For Flask
     └── index.html       # Web template
+
+
+
+breaches.db
+__pycache__/
+*.pyc
