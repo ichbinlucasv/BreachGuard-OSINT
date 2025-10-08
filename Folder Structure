@@ -1,0 +1,8 @@
+BreachGuard-OSINT/
+├── app.py               # Main script (CLI and Flask web app)
+├── database.py          # SQL database functions
+├── requirements.txt     # Dependencies
+├── README.md            # Project documentation
+├── breaches.db          # SQLite DB (generated; add to .gitignore)
+└── templates/           # For Flask
+    └── index.html       # Web template
