@@ -1,0 +1,9 @@
+# BreachGuard-OSINT
+A Python tool to check email breach status using the Have I Been Pwned API, storing results in SQLite for secure analysis.
+
+## Status
+In development. Current features: API integration, SQLite storage. Planned: Reporting module, CLI interface.
+
+## Technologies
+- Python 3, Requests library
+- SQLite for data storage
